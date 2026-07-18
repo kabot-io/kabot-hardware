@@ -1,4 +1,9 @@
-kicad/kabot/_restore_backup*
+
 kicad/kabot/.history
 kicad/kabot/kabot-backups/*
-kicad/kabot/*.kicad_sch_old
+
+*_restore_backup*
+*.kicad_sch_old
+*.FCBak
+*.lck
+*tmp*.rpt
