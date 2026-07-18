@@ -1,0 +1,5 @@
+{
+"description": "Current sensor based on INA219 IC",
+"keywords": "I2C Current Sensor INA219",
+"fields": {}
+}

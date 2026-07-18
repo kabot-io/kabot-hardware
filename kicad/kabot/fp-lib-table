@@ -1,0 +1,7 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "veml7700") (type "KiCad") (uri "${KIPRJMOD}/vendor/kicad-libraries-hggh/veml7700.pretty/veml7700.pretty") (options "") (descr ""))
+	(lib (name "kabot") (type "KiCad") (uri "${KIPRJMOD}/footprints/kabot.pretty") (options "") (descr ""))
+	(lib (name "Aliexpress") (type "KiCad") (uri "${KIPRJMOD}/footprints/Aliexpress.pretty") (options "") (descr ""))
+	(lib (name "Aliexpress") (type "KiCad") (uri "${KIPRJMOD}/footprints/Aliexpress.pretty") (options "") (descr ""))
+)
